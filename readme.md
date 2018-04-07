@@ -1,0 +1,1 @@
+This is just a sample of a homepage of BBC that I created using purely HTML & CSS code. Thanks for stopping by. For more inquiries on collaborations, etc, please do reach out to me. Thanks! :) 
